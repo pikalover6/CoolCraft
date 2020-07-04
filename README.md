@@ -11,5 +11,5 @@ Inventory to add and remove blocks.
 Save and load worlds from file (not finished yet)
 
 ## Screenshots:
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
+![](https://github.com/pikalover6/CoolCraft/blob/master/coolcraft1.jfif?raw=true)
+![](https://github.com/pikalover6/CoolCraft/blob/master/coolcraft2.jfif?raw=true)
