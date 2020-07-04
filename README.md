@@ -9,3 +9,7 @@ pyglet (run pip3 install pyglet)
 Seeded world-gen with hills, trees and (in developement, so disabled by default): water.
 Inventory to add and remove blocks.
 Save and load worlds from file (not finished yet)
+
+## Screenshots:
+![alt text](http://url/to/img.png)
+![alt text](http://url/to/img.png)
